@@ -1,5 +1,5 @@
 {
-  "name": "koa2-ratelimit",
+  "name": "koa2-ratelimit-code",
   "author": "YSO CORP",
   "version": "0.9.1",
   "description": "IP rate-limiting middleware for Koajs 2. Use to limit repeated requests to APIs and/or endpoints such as password reset.",
