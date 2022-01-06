@@ -9,12 +9,12 @@
   },
   "people": {
     "name": "YSO CORP",
-    "email": "contact@ysocorp.com",
+    "email": "hao_chun_hui@163.com",
     "url": "http://ysocorp.com"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ysocorp/koa2-ratelimit"
+    "url": "https://github.com/codeHui/koa2-ratelimit"
   },
   "dependencies": {
     "mongoose": "^5.5.13",
