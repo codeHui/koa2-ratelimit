@@ -1,3 +1,18 @@
+
+# Bug Fix Pull Requests
+- https://github.com/ysocorp/koa2-ratelimit/pull/39
+![fix_1.jpg](readme_images/fix_1.jpg)
+- https://github.com/ysocorp/koa2-ratelimit/pull/40
+![fix_2.jpg](readme_images/fix_2.jpg)
+
+# NPM Package
+```
+npm i koa2-ratelimit-code
+```
+![npm.jpg](readme_images/npm.jpg)
+
+---
+
 #  Koajs 2 Rate Limit (Bruteforce)
 
 [![Build Status](https://secure.travis-ci.org/ysocorp/koa2-ratelimit.png?branch=master "Test")](http://travis-ci.org/ysocorp/koa2-ratelimit)
